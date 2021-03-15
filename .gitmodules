@@ -10,3 +10,6 @@
 [submodule "third"]
 	path = third
 	url = ../third
+[submodule "console"]
+	path = console
+	url = ../console
