@@ -4,15 +4,9 @@
 [submodule "app-simple"]
 	path = app-simple
 	url = ../app-simple
-[submodule "include"]
-	path = include
-	url = ../include
 [submodule "third"]
 	path = third
 	url = ../third
 [submodule "console"]
 	path = console
 	url = ../console
-[submodule "port"]
-	path = port
-	url = ../../cpp-port/port
