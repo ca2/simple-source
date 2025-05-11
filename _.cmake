@@ -1,5 +1,8 @@
 
 
+message(STATUS "source/_.cmake included")
+
+
 set(INCLUDE_DRAW2D_CAIRO TRUE)
 set(INCLUDE_IMAGING_FREEIMAGE TRUE)
 set(INCLUDE_AUDIO FALSE)
