@@ -4,9 +4,6 @@
 [submodule "app-simple"]
 	path = app-simple
 	url = ../app-simple
-[submodule "third"]
-	path = third
-	url = ../third
 [submodule "console"]
 	path = console
 	url = ../console
