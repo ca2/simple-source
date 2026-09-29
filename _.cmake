@@ -2,7 +2,7 @@
 
 message(STATUS "source/_.cmake included")
 
-if(${ANDROID} OR ${WIN32})
+if(${__ANDROID__} OR ${WIN32})
 set(INCLUDE_DRAW2D_CAIRO TRUE)
 set(INCLUDE_FREETYPE TRUE)
 set(INCLUDE_IMAGING_FREEIMAGE TRUE)
